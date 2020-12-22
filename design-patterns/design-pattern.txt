@@ -1,0 +1,42 @@
+design patterns are used for building resuable and extensible object oriented software
+elegant solution to repeating problems
+
+element of resuable object oriented software by GOF
+
+Advantage of design pattern:
+They are reusable in multiple projects.
+They provide the solutions that help to define the system architecture.
+They capture the software engineering experiences.
+They provide transparency to the design of an application.
+
+We must use the design patterns during the analysis and requirement phase of SDLC
+
+1. Creational ---- diff ways to create an objects
+1.Factory Pattern ---define an interface or abstract class for creating an object
+ but let the subclasses decide which class to instantiate
+2. Abstract Factory Pattern
+3.Singleton Pattern
+4.Prototype Pattern
+5.Builder Pattern.
+
+2. Structural ----- relationship about the objects
+1. Adapter Pattern
+2.Bridge Pattern
+3.Composite Pattern
+3.Decorator Pattern
+4.Facade Pattern
+5.Flyweight Pattern
+6.Proxy Pattern
+
+3. Behavioural  ---- interaction and comunication between the objects
+1.Chain Of Responsibility Pattern
+2.Command Pattern
+3.Interpreter Pattern
+4.Iterator Pattern -- allow to define own rules to how to travers collection object
+5.Mediator Pattern
+6.Memento Pattern
+7.Observer Pattern --- define one to many. one object is known as subject and other known as Observer
+8.State Pattern
+9.Strategy Pattern --- encapsulate a group of family of closely related algorithm is called Strategy
+10.Template Pattern
+11.Visitor Pattern
